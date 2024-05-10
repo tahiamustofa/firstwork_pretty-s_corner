@@ -1,0 +1,62 @@
+body{
+
+	background-color:white;
+	font-size: 16px;
+	line-height: 1.6;
+	
+
+}
+.Our-section{
+	padding: 4em 0;
+}
+.Our-title{
+	font-size: 16px;
+	font-weight: 300;
+	text-transform:uppercase;
+	letter-spacing:.5em;
+}
+.Our-primary-title{
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.post{ 
+width: 300px;
+	float: left;
+	text-align: center;
+	margin:26px;
+	border: 5px solid #FF33FE ;
+	background:gray; 
+	
+ }
+
+.post img{
+	width:100%;
+	height:400px; 
+	
+}
+.post button{color: white;
+	background:purple;
+	border: 0;
+	padding: 9px;
+	border-radius:10px;
+ }
+ .social ul li{
+ 	color: white;
+ 	display:inline;
+ 	text-color:white;
+ }
+ .social ul li a{
+ 	color: white;
+ 	display: inline-block;
+ 	padding: 10px;
+ 	text-decoration-color:white;
+ }
+ .pc ul li a{
+ 	color: white;
+ }
+ .b ul li a{
+ 	color: white;
+ }
+ .card{
+ 	padding: 2em 7;
+ }
